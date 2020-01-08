@@ -5,8 +5,6 @@ git command
 1. https://codevkr.tistory.com/46
 2. https://devmjun.github.io/archive/git-more-often-command
 
-AWS IAM
-
 명령어 : git clone [레포지터리명]  동기화를 수행<BR> 
 파일 수정 : vi [해당파일명]  <BR>
 파일 확인 : git status <BR>
@@ -18,7 +16,7 @@ AWS IAM
 
 <p>--------------------------------------------------</p>
 
-Github와 EC2 or lambda 와 연동하기. 
+<H5> Github와 EC2 or lambda 와 연동하기. </H5>
 ssh key 생성
 <p> # ssh-keygen -t rsa -C yourmailaddress </p>
 <p> # cd /root/.ssh </p>
@@ -26,5 +24,5 @@ ssh key 생성
 
 <p>--------------------------------------------------</p>
 
-AWS IAM 권한 설정<br>
+<H5>AWS IAM 권한 설정<br></H5>
 - 해당 모든 권한은 테스트를 위해 full access 권한이지만 보안을 위해 추후 권한 변경 필요.
