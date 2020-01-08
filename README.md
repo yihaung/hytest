@@ -1,5 +1,4 @@
 # hytest 20200108
-<<<<<<< HEAD
 
 도움을 받은 사이트 
 git command
