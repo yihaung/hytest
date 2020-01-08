@@ -2,7 +2,11 @@
 <<<<<<< HEAD
 
 도움을 받은 사이트 
-git command : https://codevkr.tistory.com/46
+git command
+1. https://codevkr.tistory.com/46
+2. https://devmjun.github.io/archive/git-more-often-command
+
+AWS IAM
 
 명령어 : git clone [레포지터리명]  동기화를 수행<BR> 
 파일 수정 : vi [해당파일명]  <BR>
