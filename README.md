@@ -20,8 +20,8 @@ AWS IAM
 
 Github와 EC2 or lambda 와 연동하기. 
 ssh key 생성
-# ssh-keygen -t rsa -C yourmailaddress
-# cd /root/.ssh
+<p> # ssh-keygen -t rsa -C yourmailaddress </p>
+<p> # cd /root/.ssh </p>
 해당 파일을 복사한 후에 그 파일을 github에 등록한다. 등록 방법은 계정 > setting 에서 종류별로 등록 가능
 
 <p>--------------------------------------------------</p>
