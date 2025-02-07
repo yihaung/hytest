@@ -25,11 +25,11 @@ ssh key 생성
 <p>--------------------------------------------------</p>
 
 <H5>AWS IAM 권한 설정<br></H5>
- - 해당 모든 권한은 테스트를 위해 full access 권한이지만 보안을 위해 추후 권한 변경 필요.</br>
- - Managed Policy</br>
- - 1. AWSLambdaFullAccess</br>
- - 2. AmazonS3FullAccess</br>
- - 3. AWSLambdaBasicExecutionRole</br>
+ 해당 모든 권한은 테스트를 위해 full access 권한이지만 보안을 위해 추후 권한 변경 필요.</br>
+  Managed Policy</br>
+ 1. AWSLambdaFullAccess</br>
+ 2. AmazonS3FullAccess</br>
+ 3. AWSLambdaBasicExecutionRole</br>
  <br>
- - 4. awslambdas3move</br>
+ 4. awslambdas3move</br>
 
